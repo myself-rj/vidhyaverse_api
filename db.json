@@ -1,12 +1,13 @@
 {
- "profile": {
-"name":"Daniel D.",
-"bio":"Physics Teacher",
-"courses":["Physics Class 9 Core","Physics Class 9 Rapid","Physics Ultimate"],
-"profile_pic":"https://miro.medium.com/max/785/0*Ggt-XwliwAO6QURi.jpg"
-},
- "groups":{
-  {"name":"Physics Core A","group_icon":"http://simpleicon.com/wp-content/uploads/rocket.png","message":{"name":"Rahul","text":"why mass of moon is less?","count":5}},
-  {"name":"Physics Core B","group_icon":"http://simpleicon.com/wp-content/uploads/rocket.png","message":{"name":"Sonu","text":"will class be delayed","count":2}}
-}
+"profile": {
+   "name":"Daniel D.",
+   "bio":"Physics Teacher",
+   "courses":["Physics Class 9 Core","Physics Class 9 Rapid","Physics Ultimate"],
+   "profile_pic":"https://miro.medium.com/max/785/0*Ggt-XwliwAO6QURi.jpg"
+   ,
+    "groups":[
+     {"name":"Physics Core A","group_icon":"http://simpleicon.com/wp-content/uploads/rocket.png","message":{"name":"Rahul","text":"why mass of moon is less?","count":5}},
+     {"name":"Physics Core B","group_icon":"http://simpleicon.com/wp-content/uploads/rocket.png","message":{"name":"Sonu","text":"will class be delayed","count":2}}
+    ]
+   }
 }
